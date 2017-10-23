@@ -62,7 +62,7 @@ Update object with `message` and `successful_payment` field.
 ### message_with_video
 File: `res/message_with_video.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `video` field.
 
