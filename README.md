@@ -104,7 +104,7 @@ Update object with `message` and `invoice` field.
 ### message_with_sticker
 File: `res/message_with_sticker.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `sticker` field.
 

@@ -1,1 +1,34 @@
-{}
+{
+ "update_id": 123456789,
+ "message": {
+  "message_id": 12345,
+  "from": {
+   "id": 12345678,
+   "is_bot": false,
+   "first_name": "Name",
+   "username": "UserName",
+   "language_code": "ln-LN"
+  },
+  "chat": {
+   "id": 12345678,
+   "first_name": "Name",
+   "username": "UserName",
+   "type": "private"
+  },
+  "date": 1508771450,
+  "sticker": {
+   "width": 512,
+   "height": 512,
+   "emoji": "🛠",
+   "set_name": "CityWars",
+   "thumb": {
+    "file_id": "AAQCABPA7AYOAAQG1ccLvZn62RAbAAIC",
+    "file_size": 6136,
+    "width": 128,
+    "height": 128
+   },
+   "file_id": "CAADAgADOgADKHr7A36pyyv9e36nAg",
+   "file_size": 33050
+  }
+ }
+}
