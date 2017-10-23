@@ -251,7 +251,7 @@ Update object with `message` and `author_signature` field.
 ### reply_message
 File: `res/reply_message.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with reply_message field.
 
