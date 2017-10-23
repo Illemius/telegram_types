@@ -1,1 +1,24 @@
-{}
+{
+ "update_id": 123456789,
+ "message": {
+  "message_id": 12345,
+  "from": {
+   "id": 12345678,
+   "is_bot": false,
+   "first_name": "Name",
+   "username": "UserName",
+   "language_code": "ln-LN"
+  },
+  "chat": {
+   "id": 12345678,
+   "first_name": "Name",
+   "username": "UserName",
+   "type": "private"
+  },
+  "date": 1508755473,
+  "location": {
+   "latitude": 55.693416,
+   "longitude": 37.624605
+  }
+ }
+}
