@@ -90,7 +90,7 @@ Update object with `channel_post` field.
 ### message_with_voice
 File: `res/message_with_voice.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `voice` field.
 
