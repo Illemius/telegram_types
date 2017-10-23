@@ -1,1 +1,24 @@
-{}
+{
+  "message_id": 9772,
+  "from": {
+    "id": 380294876,
+    "is_bot": true,
+    "first_name": "aiogram",
+    "username": "aiogram_bot"
+  },
+  "chat": {
+    "id": 61043901,
+    "first_name": "Alex",
+    "last_name": "RootJunior",
+    "username": "JRootJunior",
+    "type": "private"
+  },
+  "date": 1508761719,
+  "invoice": {
+    "title": "Working Time Machine",
+    "description": "Want to visit your great-great-great-grandparents? Make a fortune at the races? Shake hands with Hammurabi and take a stroll in the Hanging Gardens? Order our Working Time Machine today!",
+    "start_parameter": "time-machine-example",
+    "currency": "USD",
+    "total_amount": 6250
+  }
+}
