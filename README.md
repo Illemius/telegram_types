@@ -6,7 +6,7 @@ All files located in `res` directory
 ### shipping_query
 File: `res/shipping_query.json`
 
-Sender: <N/A>
+Sender: Alex Root Junior
 
 Update object with `shipping_query` field.
 
