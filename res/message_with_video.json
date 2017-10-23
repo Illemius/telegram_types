@@ -1,1 +1,35 @@
-{}
+{
+ "update_id": 123456789,
+ "message": {
+  "message_id": 12345,
+  "from": {
+   "id": 12345678,
+   "is_bot": false,
+   "first_name": "Name",
+   "username": "UserName",
+   "language_code": "ln-LN"
+  },
+  "chat": {
+   "id": 12345678,
+   "first_name": "Name",
+   "username": "UserName",
+   "type": "private"
+  },
+  "date": 1508756494,
+  "video": {
+   "duration": 52,
+   "width": 853,
+   "height": 480,
+   "mime_type": "video/quicktime",
+   "thumb": {
+    "file_id": "AAAzdwadBNvAQcOAARDhYI0pwNR39QoAAIC",
+    "file_size": 3412,
+    "width": 90,
+    "height": 50
+   },
+   "file_id": "BAADAgpAADdawy_JxS72kRvV3cortAg",
+   "file_size": 10099782
+  },
+  "caption": "description"
+ }
+}
