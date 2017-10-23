@@ -55,7 +55,7 @@ Update object with `message` and `pinned_message` field.
 ### message_with_successful_payment
 File: `res/message_with_successful_payment.json`
 
-Sender: <N/A>
+Sender: Alex Root Junior
 
 Update object with `message` and `successful_payment` field.
 
@@ -97,7 +97,7 @@ Update object with `message` and `voice` field.
 ### message_with_invoice
 File: `res/message_with_invoice.json`
 
-Sender: <N/A>
+Sender: Alex Root Junior
 
 Update object with `message` and `invoice` field.
 
@@ -258,7 +258,7 @@ Update object with reply_message field.
 ### pre_checkout_query
 File: `res/pre_checkout_query.json`
 
-Sender: <N/A>
+Sender: Alex Root Junior
 
 Update object with pre_checkout_query field.
 
