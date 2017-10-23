@@ -230,7 +230,7 @@ Update object with `message` and `document` field.
 ### message_with_location
 File: `res/message_with_location.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `location` field.
 
