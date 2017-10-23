@@ -3,18 +3,18 @@
   "message": {
     "message_id": 9768,
     "from": {
-      "id": 61043901,
+      "id": 12345678,
       "is_bot": false,
-      "first_name": "Alex",
-      "last_name": "RootJunior",
-      "username": "JRootJunior",
-      "language_code": "ru-RU"
+      "first_name": "FirstName",
+      "last_name": "LastName",
+      "username": "username",
+      "language_code": "ru"
     },
     "chat": {
-      "id": 61043901,
-      "first_name": "Alex",
-      "last_name": "RootJunior",
-      "username": "JRootJunior",
+      "id": 12345678,
+      "first_name": "FirstName",
+      "last_name": "LastName",
+      "username": "username",
       "type": "private"
     },
     "date": 1508761169,
@@ -23,7 +23,7 @@
       "total_amount": 6250,
       "invoice_payload": "HAPPY FRIDAYS COUPON",
       "telegram_payment_charge_id": "_",
-      "provider_payment_charge_id": "62041508761168_test"
+      "provider_payment_charge_id": "12345678901234_test"
     }
   }
 }

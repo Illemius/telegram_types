@@ -1,16 +1,18 @@
 {
   "message_id": 9772,
   "from": {
-    "id": 380294876,
-    "is_bot": true,
-    "first_name": "aiogram",
-    "username": "aiogram_bot"
+    "id": 12345678,
+    "is_bot": false,
+    "first_name": "FirstName",
+    "last_name": "LastName",
+    "username": "username",
+    "language_code": "ru"
   },
   "chat": {
-    "id": 61043901,
-    "first_name": "Alex",
-    "last_name": "RootJunior",
-    "username": "JRootJunior",
+    "id": 12345678,
+    "first_name": "FirstName",
+    "last_name": "LastName",
+    "username": "username",
     "type": "private"
   },
   "date": 1508761719,
