@@ -1,1 +1,17 @@
-{}
+{
+  "update_id": 167784956,
+  "pre_checkout_query": {
+    "id": "262181558630368727",
+    "from": {
+      "id": 61043901,
+      "is_bot": false,
+      "first_name": "Alex",
+      "last_name": "RootJunior",
+      "username": "JRootJunior",
+      "language_code": "ru-RU"
+    },
+    "currency": "USD",
+    "total_amount": 6250,
+    "invoice_payload": "HAPPY FRIDAYS COUPON"
+  }
+}
