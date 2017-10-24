@@ -1,18 +1,18 @@
 {
- "update_id": 919787343,
+ "update_id": 123456789,
  "message": {
-  "message_id": 22980,
+  "message_id": 12345,
   "from": {
-   "id": 66812456,
+   "id": 12345678,
    "is_bot": false,
-   "first_name": "O",
-   "username": "Oleg_Oleg_Oleg",
-   "language_code": "ru-RU"
+   "first_name": "Name",
+   "username": "UserName",
+   "language_code": "ln-LN"
   },
   "chat": {
-   "id": 66812456,
-   "first_name": "O",
-   "username": "Oleg_Oleg_Oleg",
+   "id": 12345678,
+   "first_name": "Name",
+   "username": "UserName",
    "type": "private"
   },
   "date": 1508825154,
@@ -42,6 +42,6 @@
     "height": 320
    }
   ],
-  "caption": "description"
+  "caption": "photo description"
  }
 }
