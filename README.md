@@ -13,7 +13,7 @@ Update object with `shipping_query` field.
 ### message_with_game
 File: `res/message_with_game.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `game` field.
 
