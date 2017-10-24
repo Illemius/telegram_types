@@ -132,7 +132,7 @@ Update object with `message` and `migrate_to_chat_id` field.
 ### edited_message
 File: `res/edited_message.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with edited_message field.
 
