@@ -118,7 +118,7 @@ Update object with `message` and `new_chat_title` field.
 ### message_with_photo
 File: `res/message_with_photo.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `photo` field.
 
