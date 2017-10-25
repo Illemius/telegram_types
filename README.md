@@ -272,6 +272,6 @@ Update object with `message` and `migrate_from_chat_id` field.
 ### message_with_audio
 File: `res/message_with_audio.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `audio` field.
