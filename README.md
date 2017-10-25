@@ -139,14 +139,14 @@ Update object with edited_message field.
 ### forwarded_message
 File: `res/forwarded_message.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `forwarded_message` field.
 
 ### message
 File: `res/message.json`
 
-Sender: <N/A>
+Sender: Alex Root Junior
 
 Update object with `message` field.
 
