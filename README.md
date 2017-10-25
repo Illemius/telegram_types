@@ -223,7 +223,7 @@ Update object with `message` and `edit_date` field.
 ### message_with_document
 File: `res/message_with_document.json`
 
-Sender: <N/A>
+Sender: Oleg
 
 Update object with `message` and `document` field.
 
